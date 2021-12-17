@@ -1,0 +1,66 @@
+body{
+  background-color: #406882;
+
+}
+.navbar-nav{
+  margin-left: auto;
+  margin-right: 20px;
+}
+nav{
+  padding: 0;
+  margin-top: 10px;
+}
+footer{
+height: 50px;
+background-color: black;
+color: gray;
+}
+h6{
+  text-align:center;
+}
+.h1{ color: white;
+  text-align: center;
+  font-size: 40px;}
+p{ color: white;
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  font-size: 24px;
+}
+  .navbar-brand{
+  margin-left: 20px;
+  }
+.card{
+  margin: auto;
+
+}
+.card-img-top{
+  margin: auto;
+  height:954px;
+  width:664px;
+}
+.card-text{
+width: 98%;
+padding:0;
+color: black;
+font-size: 14px;
+}
+.container1 {
+  width: 90%;
+  margin: auto;
+}
+.film1{
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.film2{
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 200px;
+}
+.film3{
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 300px;
+}
